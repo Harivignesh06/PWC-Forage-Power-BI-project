@@ -25,7 +25,11 @@ Task 2 :
 Employee Retention Analysis
 
 Page 1
+
+
 ![Employee Retention Analysis SS1](https://github.com/user-attachments/assets/a5e82ba2-2380-4ff8-96ef-4b34baa9f99f)
 
 Page 2 
+
+
 ![Employee Retention Analysis SS2](https://github.com/user-attachments/assets/08d279cf-d326-476e-a892-0b20b5aecd34)
