@@ -27,12 +27,14 @@ Employee Retention Analysis
 Page 1
 
 
-![Employee Retention Analysis SS1](https://github.com/user-attachments/assets/a5e82ba2-2380-4ff8-96ef-4b34baa9f99f)
+![Employee Retention Analysis SS1 1](https://github.com/user-attachments/assets/79ec9f07-5eb4-4cf4-a1e4-7ca9076dca6b)
+
 
 Page 2 
 
 
-![Employee Retention Analysis SS2](https://github.com/user-attachments/assets/08d279cf-d326-476e-a892-0b20b5aecd34)
+![Employee Retention Analysis SS1 2](https://github.com/user-attachments/assets/2e0719fc-2fa4-478c-a983-a8f9f75af8b0)
+
 
 
 Task 3 :
@@ -41,11 +43,13 @@ PhoneNow Company's Call center Analysis
 
 Page 1 
 
-![PhoneNow Call center Analysis 1](https://github.com/user-attachments/assets/4b882dbf-9b50-4134-825d-3f246537d783)
+![PhoneNow Call center Analysis 1 1](https://github.com/user-attachments/assets/40cdbdab-c0eb-4754-b613-7b32e46cc746)
+
 
 
 Page 2 
 
-![PhoneNow Call center Analysis 2](https://github.com/user-attachments/assets/9634390a-68e8-4dc7-81dc-7bfb86ee615e)
+![PhoneNow Call center Analysis 1 2](https://github.com/user-attachments/assets/f410f55c-4c60-4041-8b86-578f2a2616f8)
+
 
 
