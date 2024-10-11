@@ -33,3 +33,19 @@ Page 2
 
 
 ![Employee Retention Analysis SS2](https://github.com/user-attachments/assets/08d279cf-d326-476e-a892-0b20b5aecd34)
+
+
+Task 3 :
+
+PhoneNow Company's Call center Analysis
+
+Page 1 
+
+![PhoneNow Call center Analysis 1](https://github.com/user-attachments/assets/4b882dbf-9b50-4134-825d-3f246537d783)
+
+
+Page 2 
+
+![PhoneNow Call center Analysis 2](https://github.com/user-attachments/assets/9634390a-68e8-4dc7-81dc-7bfb86ee615e)
+
+
